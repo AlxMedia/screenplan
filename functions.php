@@ -205,7 +205,7 @@ if ( ! function_exists( 'screenplan_styles' ) ) {
 	
 	function screenplan_styles() {
 		wp_enqueue_style( 'screenplan-style', get_stylesheet_uri() );
-		if ( get_theme_mod('responsive','on') =='on' ) { wp_enqueue_style( 'screenplan-responsive', get_template_directory_uri().'/responsive.css' ); }
+		wp_enqueue_style( 'screenplan-responsive', get_template_directory_uri().'/responsive.css' );
 		wp_enqueue_style( 'screenplan-font-awesome', get_template_directory_uri().'/fonts/all.min.css' );
 	}
 	
