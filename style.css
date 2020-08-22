@@ -70,7 +70,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 body { background: #eee; font-size: 15px; line-height: 1.5em; color: #444; font-weight: 300; }
 ::selection { background: #333; color: #fff; }
 ::-moz-selection { background: #333; color: #fff; }
-a { color: #333; text-decoration: none; outline: 0; }
+a { color: #333; text-decoration: none; }
 a:hover { color: #333; }
 img { max-width: 100%; height: auto; }
 a,
@@ -694,7 +694,7 @@ box-shadow: 0 0 2px rgba(255,255,255,0.4);
 /*  header : search
 /* ------------------------------------ */
 .header-search { position: absolute; z-index: 9999; right: 18px; top: 18px; }
-.toggle-search { background: #ffbd2f; color: rgba(0,0,0,0.7); border: 0; border-radius: 30px; padding: 6px 16px; float: right; text-align: center; font-size: 18px; line-height: 24px; cursor: pointer; display: block; }
+.toggle-search { background: #ffbd2f; color: rgba(0,0,0,0.7); outline: none; border: 0; border-radius: 30px; padding: 6px 16px; float: right; text-align: center; font-size: 18px; line-height: 24px; cursor: pointer; display: block; }
 .search-expand { display: none; position: absolute; top: 3px; right: 66px; width: 300px; z-index: 102; }
 .search-expand .themeform input { background: #fff; width: 100%; border-radius: 20px; border: 1px solid #ddd; }
 .search-expand .themeform input:focus { border-color: #ccc; }
