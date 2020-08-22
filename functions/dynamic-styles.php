@@ -119,9 +119,7 @@ if ( ! function_exists( 'screenplan_dynamic_css' ) ) {
 #header .social-links .social-tooltip { color: rgba(255,255,255,0.8); box-shadow: 0 0 1px rgba(255,255,255,0.4); }
 #header .social-links .social-tooltip:hover { background: #fff; color: #222;  }
 
-.toggle-search,
-.toggle-search:hover,
-.toggle-search.active { color: rgba(255,255,255,0.8); }
+.toggle-search .svg-icon { fill: rgba(255,255,255,0.8); }
 
 /*  widgets
 /* ------------------------------------ */
