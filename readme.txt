@@ -64,7 +64,7 @@ Source: https://stocksnap.io
 
 == Changelog ==
 
-= 1.0.4 - 2020-08-24 =
+= 1.0.4 - 2020-08-28 =
 * Improved a11y
 * Added new menu
 
