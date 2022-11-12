@@ -48,7 +48,7 @@
 				</div>
 			</header><!--/#header-->
 
-			<div class="main" id="page">
+			<div class="main">
 				
 				<?php if ( get_theme_mod( 'header-search', 'on' ) == 'on' ): ?>
 					<div class="header-search">
@@ -78,7 +78,7 @@
 					</div>
 				<?php endif; ?>
 
-				<div class="main-inner group">
+				<div class="main-inner group" id="page">
 				<?php if ( is_home() && !( is_paged() ) ): ?>	
 					<?php if ( get_theme_mod('profile-image') || get_theme_mod('profile-name') || get_theme_mod('profile-description') ): ?>
 						<div id="profile" class="group">

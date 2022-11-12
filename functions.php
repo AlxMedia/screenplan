@@ -14,12 +14,6 @@
 // Load Kirki
 include( get_template_directory() . '/functions/kirki/kirki.php' );
 
-// Load theme updater functions
-function screenplan_theme_updater() {
-	require( get_template_directory() . '/functions/updater/theme-updater.php' );
-}
-add_action( 'after_setup_theme', 'screenplan_theme_updater' );
-
 if ( ! function_exists( 'screenplan_load' ) ) {
 	
 	function screenplan_load() {
