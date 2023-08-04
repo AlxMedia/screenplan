@@ -80,6 +80,7 @@ Content images
 
 = 1.1.4 - 2023-08-04 =
 * Updated to Font Awesome 6.4.2
+* Updated to Kirki 4.2.0
 
 = 1.1.3 - 2022-11-12 =
 * Changed theme from premium to free
