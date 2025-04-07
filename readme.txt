@@ -8,7 +8,7 @@ Tags: blog, one-column, two-columns, right-sidebar, left-sidebar, custom-colors,
 
 == Description ==
 
-Screenplan is a flexible personal blog theme with plenty of options. It is optimized for all devices. You can pick accent colors, set sidebar to the left or right and choose website max-width with a few clicks. Demo: http://demo.alx.media/x/?theme=Screenplan
+Screenplan is a flexible personal blog theme with plenty of options. It is optimized for all devices. You can pick accent colors, set sidebar to the left or right and choose website max-width with a few clicks. Demo: https://demo.agnarson.com/?theme=Screenplan
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Screenplan is a flexible personal blog theme with plenty of options. It is optim
 
 == Documentation ==
 
-http://alx.media/documentation/
+https://agnarson.com/documentation/
 
 == Copyright ==
 
